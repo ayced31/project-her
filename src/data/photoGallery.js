@@ -7,7 +7,7 @@ export const photoGallery = [
   },
   {
     height: "h-80",
-    label: "Arushi cronicles",
+    label: "Monday cronicles",
     photo: "/photos/gallery-6.jpg",
     icon: "💃",
   },

@@ -1,5 +1,5 @@
 export const config = {
-  herName: "Arushi",
+  herName: "Insert-Name-Here",
   yourName: "Your Secret Admirer",
   dates: {
     herBirthday: "2026-01-20",
